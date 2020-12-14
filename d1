@@ -1,0 +1,25 @@
+Academy Foundation Course Project Outline
+
+Project Objectives:
+
+· Analyze real-time attack events.
+
+· Propose mitigation or ways to minimize the vulnerabilities associated with a required service.
+
+· Devise an action plan for setting up a secured client/server connection.
+
+Requirements:
+
+Visit one of the following (or another similar) sites which displays real time attack statistics:
+
+(It may take several minutes for the attack maps to display captured data.)
+
+http://sicherheitstacho.eu/start/main
+
+http://map.norsecorp.com
+
+· Analyze: Identify one specific service / port / protocol that repeatedly displays as being attacked.
+
+· Research: Describe a real world scenario where that particular service would be required.
+
+· Solve: Explain in your own terms a process (Solution) that would be used to setup a secured trust relationship between the server which delivers that service and a legitimate client requester.
